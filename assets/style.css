@@ -1,0 +1,10 @@
+ /* Default link color */
+ #results a {
+    color: red;
+    text-decoration: none;
+}
+
+/* Color when the link is clicked (visited) */
+#results a:visited {
+    color: yellow;
+}
