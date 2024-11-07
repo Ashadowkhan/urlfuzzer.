@@ -8,6 +8,7 @@
 
 - **Fuzzing URLs:**
 - **Custom payload option:**
+- **Custom payload from online link:**
 - **XSS Fuzzing:**
 - **SQLi Fuzzing:**
 - **LFI Fuzzing:**
