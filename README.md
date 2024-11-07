@@ -1,4 +1,4 @@
-## Note: This tool not scanning URL, it just appened your payloads with URL.
+** ## Note: This tool not scanning URL, it just appened your payloads with URL. **
 
 #### All type of URL injection fuzzer https://freelancermijan.github.io/urlfuzzer/
 
