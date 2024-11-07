@@ -7,6 +7,7 @@
 ## Features. 
 
 - **Fuzzing URLs:**
+- **Custom payload option:**
 - **XSS Fuzzing:**
 - **SQLi Fuzzing:**
 - **LFI Fuzzing:**
