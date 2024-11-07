@@ -1,4 +1,5 @@
-<b><h1>Note: This tool not scanning URL, it just appened your payloads with URL.</h1></b>
+<b><h1>Note: This tool will not scan your URLs, but print each payload appended to the URL.</h1></b>
+<b><h1>নোট: এই টুলটি আপনার ইউআরএল স্ক‌্যান করবে না, বরং ইউআরএল এর সাথে প্রতিটি পেলোড যুক্ত করে প্রিন্ট করবে।</h1></b>
 
 #### All type of URL injection fuzzer https://freelancermijan.github.io/urlfuzzer/
 
